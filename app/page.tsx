@@ -193,7 +193,7 @@ export default function Home() {
         <audio ref={audioPlayerRef} onEnded={() => setPlayingAudio(null)} />
       </section>
 
-      <footer><span>Practice mindfully · Take breaks when you need them</span></footer>
+      <footer><span>Practice mindfully · Take breaks when you need them. </span></footer>
     </main>
   );
 }

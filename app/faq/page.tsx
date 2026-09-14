@@ -1,4 +1,4 @@
 'use-client';
 export default function FAQ() {
-  return <>Know More</>;
+  return <>Know More About DAF...</>;
 }
