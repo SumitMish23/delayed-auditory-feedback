@@ -8,6 +8,10 @@ export const metadata: Metadata = {
   description:
     "Practice speaking with delayed auditory feedback (DAF). Adjust the audio delay and use real-time feedback for speech practice and fluency training.",
 
+  verification: {
+    google: "VeMqB8O6rio0xiXfhoBoWMdZ7NYMKsL-mijHEWWXh9M",
+  },
+
   keywords: [
     "Delayed Auditory Feedback",
     "DAF",
