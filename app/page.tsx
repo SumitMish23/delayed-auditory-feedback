@@ -5,7 +5,7 @@ export default function Index() {
         <main className="shell">
             <nav className="nav">
                 <div className="brand"><span className="brand-mark">◌</span><span>echo<span className="brand-accent">delay</span></span></div>
-                <Link className="nav-status" href="/faq">What is DAF ?</Link>
+                <Link className="nav-status" target="_blank" href="https://en.wikipedia.org/wiki/Delayed_auditory_feedback">What is DAF ?</Link>
             </nav>
 
             <section className="hero">
