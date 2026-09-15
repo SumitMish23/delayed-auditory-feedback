@@ -46,8 +46,8 @@ body {
 }
 
 .brand-mark {
-    display: grid;
-    place-items: center;
+    display: flex;
+    justify-content : center;
     width: 29px;
     height: 29px;
     color: var(--lime);
